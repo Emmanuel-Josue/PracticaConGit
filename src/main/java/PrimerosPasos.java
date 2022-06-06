@@ -11,13 +11,13 @@ public class PrimerosPasos {
      */
     public static void main(String[] args) {
         
-
-        //Estructura de un for
-            for(int i = 0; i < 10; i++)
-            {
-                System.out.println("El iterador vale: " + i);
-            }
-            
+        int i = 0;
+        //Estructura de un while 
+        while( i < 10)
+        {
+            System.out.println("EL iterador vale: " + i);
+            i++;
+        }
         
         }
 
