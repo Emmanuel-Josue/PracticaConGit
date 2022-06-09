@@ -12,11 +12,10 @@ public class PrimerosPasos {
     public static void main(String[] args) {
         
         int i = 0;
-        //Estructura de un while 
-        while( i < 10)
+        //Estructura de un IF 
+        if(i == 0)
         {
-            System.out.println("EL iterador vale: " + i);
-            i++;
+            System.out.println("ENTRA EL IF");
         }
         
         }
