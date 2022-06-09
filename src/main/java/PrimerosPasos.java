@@ -11,12 +11,7 @@ public class PrimerosPasos {
      */
     public static void main(String[] args) {
         
-        int i = 0;
-        //Estructura de un IF 
-        if(i == 0)
-        {
-            System.out.println("ENTRA EL IF");
-        }
+        System.out.println("Palabras escritas en la rama main");
         
         }
 
